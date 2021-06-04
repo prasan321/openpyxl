@@ -11,7 +11,7 @@ ws = wb.active
 print("Initializing..........")
 
 #loop all the items 
-#rows 
+
 #for value in ws.iter_rows(min_row=1, max_row=8, min_col=1, max_col=2):
     #print(value)
 #    for x,y in value:
